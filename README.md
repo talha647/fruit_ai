@@ -52,13 +52,15 @@ The splash screen introduces Fruit Vision AI with its application logo, name, su
 
 The login screen provides email/username and password fields. Users can also continue as a guest.
 
-![Login Screen](assets/screenshots/02-login-screen.png)
+<img width="720" height="1640" alt="image" src="https://github.com/user-attachments/assets/e6339b08-bf26-4d80-9c15-1f05dcdf9d9f" />
+
 
 ### 3. Home Screen
 
 The home screen provides two main options: Take Photo and Choose from Gallery. It also includes quick sample testing and a list of supported fruits.
 
-![Home Screen](assets/screenshots/03-home-screen.png)
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed36a711-bfc2-4b82-baba-5bd39142b114" />
+
 
 ### 4. Fruit Detection Result
 
@@ -69,7 +71,8 @@ After processing an image, the result screen displays the predicted fruit name, 
 - AI Confidence: 92%
 - Health & Freshness: 98% (displayed example value)
 
-![Detection Result](assets/screenshots/04-detection-result.png)
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/df01cf44-a9a6-4f8f-91f2-46f72cec68e6" />
+
 
 *Note: The confidence and freshness values shown above are example application outputs. They should not be considered independently verified model accuracy or scientifically validated freshness measurements.*
 
