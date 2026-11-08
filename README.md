@@ -17,11 +17,13 @@
 
 **Fruit Vision AI – Android APK**
 
-"C:\Users\dell\AndroidStudioProjects\Fruit_detection_app\app\build\outputs\apk\debug\app-debug.apk"
+[Download Fruit Vision AI APK]()
 
 ## 🔗 Project Repository
 
-[View Fruit Vision AI on GitHub]()
+## Project Repository
+
+[View Fruit Vision AI on GitHub](https://github.com/talha647/fruit_ai)
 ### AI-Powered Fruit Detection Android Application
 
 <p align="center">
