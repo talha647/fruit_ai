@@ -17,7 +17,7 @@
 
 **Fruit Vision AI – Android APK**
 
-[Download Fruit Vision AI APK]()
+[Download Fruit Vision AI APK](https://github.com/talha647/fruit_ai/commit/6266a806bb287360241f15fb9c1aef5c5fd18584)
 
 ## 🔗 Project Repository
 
