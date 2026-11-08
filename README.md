@@ -1,4 +1,27 @@
 # 🍎 Fruit Vision AI
+## 👨‍💻 Developer Information
+
+| Detail | Information |
+|---|---|
+| Developer Name | Talha Aamir |
+| Registration Number | 242201085 |
+| University | KICSIT |
+| Program | BS Computer Science |
+| Section | BSCS-5A |
+| Project Name | Fruit Vision AI |
+| Project Type | AI-Based Android Application |
+| Development Language | Java |
+| AI Technology | TensorFlow Lite |
+
+## 📲 Download Application
+
+**Fruit Vision AI – Android APK**
+
+[Download Fruit Vision AI]("C:\Users\dell\AndroidStudioProjects\Fruit_detection_app\app\build\outputs\apk\debug\app-debug.apk")
+
+## 🔗 Project Repository
+
+[View Fruit Vision AI on GitHub]()
 ### AI-Powered Fruit Detection Android Application
 
 <p align="center">
