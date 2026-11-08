@@ -45,7 +45,8 @@ The application currently displays five supported fruit classes:
 
 The splash screen introduces Fruit Vision AI with its application logo, name, subtitle, and loading animation.
 
-![Splash Screen](assets/screenshots/01-splash-screen.png)
+<img width="720" height="1640" alt="image" src="https://github.com/user-attachments/assets/db3715bb-7905-4458-bc41-02af5bfa0e10" />
+
 
 ### 2. Login Screen
 
