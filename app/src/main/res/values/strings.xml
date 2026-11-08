@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit Vision AI</string>
+    <string name="splash_tagline">AI-Powered Fruit &amp; Health Detection</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to start scanning fruits</string>
+    <string name="email_hint">Email or Username</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_guest_login">Continue as Guest</string>
+
+    <!-- Home -->
+    <string name="home_title">Fruit Vision AI</string>
+    <string name="home_welcome">Scan &amp; Detect Fruit Quality</string>
+    <string name="btn_camera">Take Photo</string>
+    <string name="btn_gallery">Choose from Gallery</string>
+    <string name="quick_test_title">Quick Test Samples</string>
+    <string name="quick_test_subtitle">Tap any fruit below to test AI detection</string>
+
+    <!-- Results -->
+    <string name="result_title">Detection Result</string>
+    <string name="detected_fruit">Detected Fruit</string>
+    <string name="health_score">Health &amp; Freshness</string>
+    <string name="confidence_score">AI Confidence</string>
+    <string name="btn_scan_again">Scan Another Fruit</string>
+    <string name="btn_share">Share Result</string>
+</resources>
