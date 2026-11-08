@@ -17,7 +17,7 @@
 
 **Fruit Vision AI – Android APK**
 
-[Download Fruit Vision AI]("C:\Users\dell\AndroidStudioProjects\Fruit_detection_app\app\build\outputs\apk\debug\app-debug.apk")
+"C:\Users\dell\AndroidStudioProjects\Fruit_detection_app\app\build\outputs\apk\debug\app-debug.apk"
 
 ## 🔗 Project Repository
 
